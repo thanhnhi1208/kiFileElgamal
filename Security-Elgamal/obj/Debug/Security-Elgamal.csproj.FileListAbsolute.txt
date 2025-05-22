@@ -1,0 +1,59 @@
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\Security-Elgamal.exe.config
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\Security-Elgamal.exe
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\Security-Elgamal.pdb
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\obj\Debug\Security-Elgamal.csproj.AssemblyReference.cache
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\obj\Debug\Security_Elgamal.Elgamal.resources
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\obj\Debug\Security_Elgamal.Properties.Resources.resources
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\obj\Debug\Security-Elgamal.csproj.GenerateResource.cache
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\obj\Debug\Security-Elgamal.csproj.CoreCompileInputs.cache
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\obj\Debug\Security-Elgamal.exe
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\obj\Debug\Security-Elgamal.pdb
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\Npgsql.dll
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\System.Buffers.dll
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\System.Memory.dll
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\System.Numerics.Vectors.dll
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\System.ValueTuple.dll
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\Npgsql.pdb
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\Npgsql.xml
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\System.Buffers.xml
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\System.Memory.xml
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\System.Numerics.Vectors.xml
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\bin\Debug\System.ValueTuple.xml
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\obj\Debug\Security_Elgamal.View.MDI.resources
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\obj\Debug\Security_Elgamal.View.Sender.resources
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\obj\Debug\Security.06018774.Up2Date
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\obj\Debug\Security_Elgamal.View.Receiver.resources
+D:\VSSTUDIO_WS\Security-Elgamal\Security-Elgamal\obj\Debug\Security_Elgamal.View.SignatureAuthentication.resources
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\Security-Elgamal.exe.config
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\Security-Elgamal.exe
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\Security-Elgamal.pdb
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\Npgsql.dll
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\System.Buffers.dll
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\System.Memory.dll
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\System.Numerics.Vectors.dll
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\System.ValueTuple.dll
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\Npgsql.pdb
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\Npgsql.xml
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\System.Buffers.xml
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\System.Memory.xml
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\System.Numerics.Vectors.xml
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\bin\Debug\System.ValueTuple.xml
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\obj\Debug\Security-Elgamal.csproj.AssemblyReference.cache
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\obj\Debug\Security_Elgamal.Properties.Resources.resources
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\obj\Debug\Security_Elgamal.View.MDI.resources
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\obj\Debug\Security_Elgamal.View.Receiver.resources
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\obj\Debug\Security_Elgamal.View.Sender.resources
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\obj\Debug\Security_Elgamal.View.SignatureAuthentication.resources
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\obj\Debug\Security-Elgamal.csproj.GenerateResource.cache
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\obj\Debug\Security-Elgamal.csproj.CoreCompileInputs.cache
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\obj\Debug\Security.06018774.Up2Date
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\obj\Debug\Security-Elgamal.exe
+D:\VSSTUDIO_WS\Security-Elgamal - KiFile\Security-Elgamal\obj\Debug\Security-Elgamal.pdb
